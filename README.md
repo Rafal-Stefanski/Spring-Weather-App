@@ -2,7 +2,7 @@
 
 Done, thanks to: https://www.metaweather.com/ 
 
-endpoint: http://localhost:8080/
+endpoint: http://localhost:8080/weather-gui
 
 #### Zadanie 2 – pogodynka :partly_sunny:
 
