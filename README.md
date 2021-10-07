@@ -11,4 +11,6 @@ endpoint: http://localhost:8080/weather-gui
 Następnie skomunikuj się z usługą poprzez wykorzystanie klasy RestTemplate.
 Z wykorzystaniem swojego ulubionego narzędzia do tworzenia GUI wyświetl wszystkie dane we formie tabelarycznej.
 
+![screen shot](https://github.com/Rafal-Stefanski/Spring-Weather-App/blob/master/src/main/resources/static/screen_shot_01.png)
 ![screen shot](.\src\main\resources\static/screen_shot_01.png)
+
