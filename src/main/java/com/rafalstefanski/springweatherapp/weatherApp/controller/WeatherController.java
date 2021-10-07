@@ -24,7 +24,6 @@ public class WeatherController {
     public String get(Model model) {
         model.addAttribute("weatherForecast", weatherService.getWeatherForecast());
         model.addAttribute("setwoeid", new WeatherService());
-//        model.addAttribute("findCity", new WeatherService().getLocation());
         model.addAttribute("dayaftertomorrow", LocalDate.now().plusDays(2).toString());
         model.addAttribute("threedaysfromtoday", LocalDate.now().plusDays(3).toString());
         return "weather-gui/weather_view";
