@@ -1,4 +1,5 @@
 ### Spring Weather Forecast App - using http client :partly_sunny:
+<img align="right" src="https://badges.pufler.dev/visits/Rafal-Stefanski/Spring-Weather-App">
 
 Done, thanks to: https://www.metaweather.com/ 
 
